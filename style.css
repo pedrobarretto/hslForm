@@ -1,0 +1,19 @@
+.container {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.radioQ {
+    display: flex;
+    flex-direction: column;
+}
+
+#checkAnother {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#checkAnother label {
+    margin: 0 8px;
+}
